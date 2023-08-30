@@ -5,7 +5,6 @@
   "description": "Quickly open your workspace project!",
   "icon": "command-icon.png",
   "author": "jeasonnow",
-  "owner": "santree",
   "categories": [
     "Developer Tools"
   ],
