@@ -13,6 +13,8 @@ export function getBundleIdentifier() {
       return "com.vscodium";
     case VSCodeBuild.VSCodiumMinor:
       return "com.visualstudio.code.oss";
+    case VSCodeBuild.WebStorm:
+      return "com.jetbrains.WebStorm";
   }
 }
 
