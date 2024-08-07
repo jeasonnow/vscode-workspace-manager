@@ -2,8 +2,11 @@ import { List } from "@raycast/api";
 import { lstatSync, readdirSync } from "fs-extra";
 import { join } from "path";
 import LocalItem from "./components/LocalItem";
+import pkg from '../package.json';
 
 import { workspacePath } from "./preference";
+
+export const version = pkg.version;
 
 function VisualStudioCodeWorkspaceManager() {
   const WORKSPACE_DIR = workspacePath;
