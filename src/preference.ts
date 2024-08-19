@@ -15,6 +15,8 @@ export function getBundleIdentifier() {
       return "com.visualstudio.code.oss";
     case VSCodeBuild.WebStorm:
       return "com.jetbrains.WebStorm";
+    case VSCodeBuild.Cursor:
+      return "com.todesktop.230313mzl4w4u92"
   }
 }
 

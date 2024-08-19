@@ -51,6 +51,14 @@
         {
           "value": "VSCodium < 1.71",
           "title": "VSCodium < 1.71"
+        },
+        {
+          "value": "WebStorm",
+          "title": "WebStorm"
+        },
+        {
+          "value": "Cursor",
+          "title": "Cursor"
         }
       ]
     }

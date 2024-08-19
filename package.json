@@ -55,6 +55,10 @@
         {
           "value": "WebStorm",
           "title": "WebStorm"
+        },
+        {
+          "value": "Cursor",
+          "title": "Cursor"
         }
       ]
     }

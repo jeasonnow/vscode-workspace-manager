@@ -4,6 +4,7 @@ export enum VSCodeBuild {
   VSCodium = "VSCodium",
   VSCodiumMinor = "VSCodium < 1.71",
   WebStorm = "WebStorm",
+  Cursor = "Cursor",
 }
 
 export type Preferences = {
